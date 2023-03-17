@@ -40,7 +40,7 @@ More details at [Work Experience at ST Engineering](/Profile/docs/ST).
 
 More details at [Work Experience at OrionArts](/Profile/docs/OrionArts).
 
-### Zealot Digital/ Game Client Developer
+### Zealot Digital / Game Client Developer
 
 <i>APR 2016 - APR 2018, SINGAPORE</i>
 
