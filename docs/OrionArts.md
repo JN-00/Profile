@@ -8,7 +8,7 @@ title: OrionArts
 
 <i>APR 2018 - MAY 2019, SINGAPORE</i>
 
-## GaleRider
+## GaleRider {#GaleRider}
 
 ![Image: GaleRider](/img/GaleRider.jpg)
 

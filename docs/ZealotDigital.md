@@ -8,7 +8,7 @@ title: Zealot Digital
 
 <i>APR 2016 - APR 2018, SINGAPORE</i>
 
-## MY HERO 我的英雄夢 GO
+## MY HERO 我的英雄夢 GO {#MyHeroGo}
 
 <iframe width="849" height="479" src="https://www.youtube.com/embed/UvoiJy5AVfU" title="我的英雄夢GO之抓土地公" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

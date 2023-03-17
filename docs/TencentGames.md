@@ -7,7 +7,7 @@ toc_max_heading_level: 2
 
 ## Developer Support Engineer
 
-<i>FEB 2021 - PRESENT,  SINGAPORE</i>
+<i>FEB 2021 - PRESENT, SINGAPORE</i>
 
 - Provide support to developers using our SDK
 - Engage with various team to build and improve the process
