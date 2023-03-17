@@ -61,12 +61,6 @@ const config = {
             position: 'left',
             label: 'Work Experience',
           },
-          {
-            type: 'doc',
-            docId: 'TencentGames',
-            position: 'left',
-            label: 'Education',
-          },
         ],
       },
       prism: {
