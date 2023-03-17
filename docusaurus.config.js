@@ -51,13 +51,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Portfolio',
+            position: 'left',
+            label: 'Portfolio',
+          },
+          {
+            type: 'doc',
+            docId: 'TencentGames',
             position: 'left',
             label: 'Work Experience',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'TencentGames',
             position: 'left',
             label: 'Education',
           },

@@ -15,14 +15,16 @@
 const sidebars = {
   // But you can create a sidebar manually
   
-  tutorialSidebar: [
-    'intro',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
+  Work: [
+    'TencentGames',
+    'ST',
+    'OrionArts',
+    'ZealotDigital',
   ],
+
+  Portfolio:['Portfolio'],
+
+  Education:[],
    
 };
 
