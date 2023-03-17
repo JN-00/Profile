@@ -5,18 +5,9 @@ https://www.linkedin.com/in/wongjinnong/
 
 ## Skills
 
-### Technical Skill & Software
-- C#
-- Unity
-- SQL
-- Unreal Engine
-- C/C++
-
-### Tools & Services:
-- Git / SourceTree
-- Visual Studio
-- Android Studio
-- Docusaurus
+| Technical Skill & Software                       | Tools & Services                                                     |
+| ------------------------------------------------ | -------------------------------------------------------------------- |
+| C#<br/>Unity<br/>SQL<br/>Unreal Engine<br/>C/C++ | Git / SourceTree<br/>Visual Studio<br/>Android Studio<br/>Docusaurus |
 
 ## Work Experience
 
