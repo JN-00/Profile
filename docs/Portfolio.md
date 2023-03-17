@@ -64,18 +64,18 @@ More details at [Work Experience at Zealot Digital](/Profile/docs/ZealotDigital)
 
 ## Education
 
-### Digipen Institute of Technology Singapore 
+### Bachelor of Science in Computer Science and Game Design
 
 <i>2012 - 2015, SINGAPORE</i>
 
-Bachelor of Science in Computer Science and Game Design
+Digipen Institute of Technology Singapore 
 
 
-### Singapore Polytechnic 
+### Diploma in Information Technology (Game Design)
 
 <i>2006 - 2010, SINGAPORE</i>
 
-Diploma in Information Technology (Game Design)
+Singapore Polytechnic 
 
 
 
