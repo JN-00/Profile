@@ -15,7 +15,7 @@ const FeatureList = [
     title: 'About me',
     description: (
       <>
-        Now working at ProximaBeta(Tencent) <br/> Developer Support Engineer
+        Now working at Tencent Games <br/> Developer Support Engineer
       </>
     ),
   },
