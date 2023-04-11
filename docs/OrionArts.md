@@ -12,7 +12,7 @@ title: OrionArts
 
 ![Image: GaleRider](/img/GaleRider.jpg)
 
-<iframe width="849" height="479" src="https://www.youtube.com/embed/-YRxbEp3wXs?list=TLGGT9Re8yi3mPMxNzAzMjAyMw" title="Galerider Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/-YRxbEp3wXs" title="Galerider Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 App Store:<br/>
 https://itunes.apple.com/us/app/galerider/id1381280659?ls=1&mt=8
